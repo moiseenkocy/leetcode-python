@@ -8,3 +8,11 @@ class Solution:
 
     def longestCommonPrefix(self, strs: list[str]) -> str:
         """Solve problem #14 Longest Common Prefix."""
+        answer = ""
+
+        for i in range(min(map(str.__len__, strs))):
+            if len({x[i] for x in strs}) != 1:
+                break
+            answer += strs[0][i]
+
+        return answer
