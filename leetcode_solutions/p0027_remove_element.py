@@ -8,3 +8,13 @@ class Solution:
 
     def removeElement(self, nums: list[int], val: int) -> int:
         """Solve problem #27 Remove Element."""
+        offset = 0
+
+        for i in range(len(nums)):
+            if nums[i] == val:
+                offset += 1
+                continue
+            if offset:
+                nums[i - offset] = nums[i]
+
+        return len(nums) - offset
