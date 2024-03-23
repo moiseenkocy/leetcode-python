@@ -9,4 +9,7 @@ class Solution:
 
     def strStr(self, haystack: str, needle: str) -> int:
         """Solve problem #28 Find the Index of the First Occurence in a String."""
-        return
+        try:
+            return haystack.index(needle)
+        except ValueError:
+            return -1
