@@ -13,7 +13,9 @@ from leetcode_solutions.p0027_remove_element import Solution
     ],
 )
 def test_removeElement(
-    nums: list[int], val: int, expected_result: tuple[int, list[int]],
+    nums: list[int],
+    val: int,
+    expected_result: tuple[int, list[int]],
 ) -> None:
     """Test removeElement solution."""
     solver = Solution()
