@@ -3,6 +3,7 @@
 https://leetcode.com/problems/two-sum/
 """
 
+
 class Solution:
     """Container class for storing solution."""
 

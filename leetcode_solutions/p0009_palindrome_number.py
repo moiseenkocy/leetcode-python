@@ -3,6 +3,7 @@
 https://leetcode.com/problems/palindrome-number/
 """
 
+
 class Solution:
     """Container class for storing solution."""
 

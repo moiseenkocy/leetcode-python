@@ -3,6 +3,7 @@
 https://leetcode.com/problems/longest-common-prefix/
 """
 
+
 class Solution:
     """Container class for storing solution."""
 

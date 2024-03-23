@@ -3,6 +3,7 @@
 https://leetcode.com/problems/remove-element/
 """
 
+
 class Solution:
     """Container class for storing solution."""
 

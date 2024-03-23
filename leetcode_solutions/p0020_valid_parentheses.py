@@ -3,6 +3,7 @@
 https://leetcode.com/problems/valid-parentheses/
 """
 
+
 class Solution:
     """Container class for storing solution."""
 
