@@ -1,7 +1,7 @@
 # leetcode-python
 
 ![Language](https://img.shields.io/badge/Language-Python3-success.svg?logo=Python&logoColor=green)
-![Progress](https://img.shields.io/badge/Progress-9%2F3089-critical.svg)
+![Progress](https://img.shields.io/badge/Progress-10%2F3089-critical.svg)
 
 
 Welcome to my personal repository, where I share my journey through solving various [Leetcode](https://leetcode.com/) problems using Python.
@@ -18,7 +18,7 @@ Welcome to my personal repository, where I share my journey through solving vari
 * ✅ [27. Remove Element](https://leetcode.com/problems/remove-element/)
 * ✅ [28. Find the Index of the First Occurence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 * ✅ [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
-* [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
+* ✅ [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 * [66. Plus One](https://leetcode.com/problems/plus-one/)
 * [67. Add Binary](https://leetcode.com/problems/add-binary/)
 * [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)
