@@ -1,5 +1,9 @@
 # leetcode-python
 
+![Language](https://img.shields.io/badge/Language-Python3-success.svg?logo=Python&logoColor=green)
+![Progress](https://img.shields.io/badge/Progress-8%2F3089-critical.svg)
+
+
 Welcome to my personal repository, where I share my journey through solving various [Leetcode](https://leetcode.com/) problems using Python.
 
 ## Easy
